@@ -1,5 +1,5 @@
 ## Cordova KochavaMeasurement
-The Kochava Cordova/Phonegap SDK is a lightweight plugin which can be easily integrated into your Cordova project.
+The Kochava Cordova SDK is a lightweight plugin which can be easily integrated into your Cordova project.
 
 [![Download](https://img.shields.io/github/v/release/Kochava/cordova-kochavameasurement-releases?include_prereleases&sort=semver)](https://github.com/Kochava/cordova-kochavameasurement-releases/releases)
 
